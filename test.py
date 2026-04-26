@@ -1,1 +1,5 @@
-print("Sudhir Varma")
+def fun():
+    print("Sudhir Varma")
+
+
+fun()
